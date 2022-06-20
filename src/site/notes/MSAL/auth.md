@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/msal/auth/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-3
+
 Actually I figured this out by myself.
 
 The Manifest property seems to get ignored if you pass your Tenant-ID along the URL `https://login.microsoftonline.com/{tenant}/oauth2/v2.0/authorize`....
