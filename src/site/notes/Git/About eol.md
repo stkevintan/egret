@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git/about-eol/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/git/about-eol/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
